@@ -11,7 +11,7 @@
   <a href="https://github.com/ranjithkumar26a?tab=followers">
     <img src="https://img.shields.io/github/followers/ranjithkumar26a?label=Followers&style=social" alt="GitHub Followers"/>
   </a>
-  <a href="https://linkedin.com/in/ranjith kumar a" target="_blank">
+  <a href="https://www.linkedin.com/in/ranjith-1126z/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:ranjithkumaranandh@gmail.com">
