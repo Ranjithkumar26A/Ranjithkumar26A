@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm RanjithKumar Anand</h1>
 <h3 align="center">🚀 Data Engineer | GenAI Practitioner | LangChain & RAG Enthusiast</h3>
 
@@ -23,13 +21,14 @@
 
 ## 🧠 About Me
 
-- 🔭 I’m currently working on cutting-edge **GenAI + RAG pipelines** using **LangChain** & **LangGraph**
-- 🌱 Exploring more in **LLM Orchestration**, **Vectorless Search**, and **Pipeline Automation**
-- 🧩 Skilled in building robust **ETL/Data Engineering solutions** using **SQL Server**, **SSIS**, and **BigQuery**
-- 💬 Ask me about:
-  - Python | SQL | GenAI | LangChain | LangGraph | RAG
-  - GCP | GCS | BigQuery | Oracle | DuckDB
-  - SSIS | SSRS | SSMS | VS Code
+- 🔭 Currently building cutting-edge **GenAI + RAG pipelines** with **LangChain**, **LangGraph**, and **LLM orchestration tools**
+- 🌱 Diving deeper into **Vectorless Search**, **Prompt Flow Automation**, and **Multi-agent Architectures**
+- 🧩 Crafting scalable **ETL/Data Engineering** workflows using **SQL Server**, **SSIS**, **BigQuery**, and **Python**
+- 📊 Turning data into actionable insights with **Power BI**
+- 💬 Let’s talk about:
+  - `Python`, `SQL`, `LangChain`, `LangGraph`, `GenAI`, `RAG`
+  - `GCP`, `BigQuery`, `GCS`, `Oracle`, `DuckDB`
+  - `SSIS`, `SSRS`, `SSMS`, `Power BI`, `VS Code`
 
 ---
 
@@ -43,7 +42,7 @@
   <img src="https://img.shields.io/badge/RAG-blueviolet?style=flat-square" />
 </p>
 
-### 💻 Programming & Tools
+### 💻 Languages & Tools
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
@@ -65,6 +64,7 @@
   <img src="https://img.shields.io/badge/SSIS-217346?style=flat-square&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/SSRS-742774?style=flat-square&logo=powerbi&logoColor=white" />
   <img src="https://img.shields.io/badge/SSMS-003B57?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 </p>
 
 ---
@@ -82,7 +82,7 @@
 
 ---
 
-## 🏆 Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ranjithkumar26a&theme=onedark&row=1&margin-w=10&margin-h=15" />
@@ -107,5 +107,5 @@
 ---
 
 <p align="center">
-  ⚡ Empowering Data with Intelligence | Fueled by Curiosity | Built with 💙
+  ⚡ Empowering Data with Intelligence | Driven by Curiosity | Built with 💙
 </p>
